@@ -6,33 +6,63 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene 5.unity
+    path: Assets/Scenes/KotuBaba.unity
+    guid: 52832f4480b64cd4bb8b301abf394103
+  - enabled: 1
+    path: Assets/Scenes/BabaDayak.unity
     guid: 0b5c51263e7fe6f42806bd800699ef2f
   - enabled: 1
-    path: Assets/Scenes/1.unity
+    path: Assets/Scenes/asker.unity
     guid: 058b0a7411f684849afcddce1a57f57d
   - enabled: 1
-    path: Assets/Scenes/2.unity
+    path: "Assets/Scenes/ProfAldat\u0131lma.unity"
+    guid: 6ef3693c3419ec146bbd775277729eb2
+  - enabled: 1
+    path: Assets/Scenes/prof.unity
     guid: 860cf57a98341784e96296ade3e3daba
   - enabled: 1
-    path: Assets/Scenes/3.unity
+    path: Assets/Scenes/ProfAskere.unity
+    guid: 387743523308ce64998dd55243b977b7
+  - enabled: 1
+    path: Assets/Scenes/ProfBabaSikayet.unity
+    guid: 60c16a099c5fb9548948c7a96d67c84a
+  - enabled: 1
+    path: Assets/Scenes/ProfBilime.unity
+    guid: 4fe95bd5e004390419204c917513a4d2
+  - enabled: 1
+    path: Assets/Scenes/ProfEgitim.unity
+    guid: 84120e30b3ee8524d86caf95eeea2fae
+  - enabled: 1
+    path: "Assets/Scenes/ProfKay\u0131p.unity"
+    guid: 804d5f55e098cfc4fb84e167cbe43f3d
+  - enabled: 1
+    path: Assets/Scenes/ProfSavasa.unity
+    guid: f0634286ff9797544a14ed479678311f
+  - enabled: 1
+    path: Assets/Scenes/askerBabaDayak.unity
+    guid: 1384ae3ba8c831945a41d907a04ab0f5
+  - enabled: 1
+    path: Assets/Scenes/askerEgitim.unity
+    guid: 5e81e28c24f3eaf46a2f1227fc4e02fa
+  - enabled: 1
+    path: Assets/Scenes/askerEvlilik.unity
+    guid: 76a6cdfd5c8086842ad403508448339d
+  - enabled: 1
+    path: "Assets/Scenes/askerKay\u0131p.unity"
+    guid: 60539cdea0abf9a4aad9a6e307114a3a
+  - enabled: 1
+    path: Assets/Scenes/kurtar.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/4.unity
-    guid: 2ac93c1904bc187478043fd97d387463
-  - enabled: 1
-    path: Assets/Scenes/5.unity
+    path: Assets/Scenes/iyilestir.unity
     guid: 6d1b545d74e8f9345bbcd50b7ff46da9
   - enabled: 1
-    path: Assets/Scenes/6.unity
+    path: Assets/Scenes/iyilestirme.unity
     guid: 3d1fdb725e5dfe64f82bd7cab96b6bac
   - enabled: 1
-    path: Assets/Scenes/7.unity
-    guid: 93f29710dcaf85d4b8838a3cf05ce85a
+    path: Assets/Scenes/askerProfa.unity
+    guid: b2a4c52b98163b84b9eff17500e17c0d
   - enabled: 1
-    path: Assets/Scenes/8.unity
-    guid: 563b0f68a3216c34fa6b588e5cf4e94b
-  - enabled: 1
-    path: Assets/Scenes/8 1.unity
+    path: Assets/Scenes/askerSavasa.unity
     guid: c4e6acecc7bad584d9983427c57ddb97
   m_configObjects: {}
